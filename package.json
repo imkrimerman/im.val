@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/imkrimerman/im.val/issues"
   },
-  "homepage": "https://github.com/imkrimerman/im.val#readme"
+  "homepage": "https://github.com/imkrimerman/im.val#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
