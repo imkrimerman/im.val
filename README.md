@@ -11,7 +11,7 @@ Install and just use. Check examples below.
 
 ### Examples
 ```js
-var val = require('./index'),
+var val = require('im.val'),
   _ = require('lodash');
 
 /***************************************************************************
