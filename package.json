@@ -1,0 +1,21 @@
+{
+  "name": "im.val",
+  "version": "1.0.0",
+  "description": "Default value assigner for ES5",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkrimerman/im.val.git"
+  },
+  "keywords": [
+    "ES5",
+    "default value",
+    "im"
+  ],
+  "author": "Igor Krimerman <i.m.krimerman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imkrimerman/im.val/issues"
+  },
+  "homepage": "https://github.com/imkrimerman/im.val#readme"
+}
