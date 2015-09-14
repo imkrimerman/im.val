@@ -1,6 +1,6 @@
 # im.val
 Default value assigner for ES5.
-If you hate check for provided parameters in functions and methods then check this out.
+If you hate to check for provided parameters in functions and methods then check this out.
 
 ### Installation
 ```
