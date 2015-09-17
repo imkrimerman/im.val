@@ -9,10 +9,11 @@ npm install im.val --save
 
 ### Usage
 Returns value if value is provided, not undefined and not null, otherwise returns defaults.
-If defaults is not provided, notDefined ($__NULL__$) value will be returned.
+
+If defaults is not provided, notDefined ```($__NULL__$)``` value will be returned.
+
 Additionally you can pass function as the 3rd parameter, it should validate value and
 return boolean. If function returns true then value will be returned, otherwise defaults.
-
 ```js
 var val = require('im.val'),
   _ = require('lodash');
