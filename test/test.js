@@ -30,4 +30,10 @@ describe('im.val', function() {
     assert.equal(ok, test);
   });
 
+  it('Should return notDefined right', function() {
+    assert.equal(val.notDefined, val());
+    assert.equal(null, val(undefined, null));
+    assert.equal(undefined, val(null, undefined));
+  })
+
 });
